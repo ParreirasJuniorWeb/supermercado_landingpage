@@ -1,4 +1,4 @@
-# Website_supermercado_online_produtos_veganos
+# Landing Page para um Supermercado de Produtos Veganos
 Este projeto é um website de supermercado online, com foco em produtos veganos. Ele foi construído utilizando uma estrutura simples de **HTML, CSS e JavaScript**, com um design totalmente responsivo, adaptando-se a diferentes tamanhos de ecrã.
 
 # Funcionalidades
